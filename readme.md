@@ -19,6 +19,8 @@ Everything was designed using Fusion 360, and CAD files are available for furthe
 
 ## ⚡​ FLASHING
 
+QMK were written so each half uses the same firmware build, but it is important to **connect the right half to the computer**.
+
 If **no firmware modifications** are needed, flash the firmware build onto your two Raspberry Pi Picos:
 
 1. Connect each Pico to your computer while holding the boot button.
