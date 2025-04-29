@@ -13,8 +13,14 @@ The chassis is designed for:
 - Column-staggered keys
 - Hand-wired design
 
-Everything was designed using Fusion 360, and CAD files are available for further customization. The plate supports standard MX switches. Note: 3D-printed plates may require post-processing depending on your printer settings.
+<!-- BREAKPOINT -->
+![flat view](Pics/Photos/flat_trs_3.jpg)
+<!-- BREAKPOINT -->
 
+Everything was designed using Fusion 360, and CAD files are available for further customization. The plate supports standard MX switches. Note: 3D-printed plates may require post-processing depending on your printer settings.
+<!-- BREAKPOINT -->
+![fusion360_screenshot](Pics/Fusion360/side_view.png)
+<!-- BREAKPOINT -->
 ---
 
 ## ⚡​ FLASHING
@@ -57,7 +63,11 @@ A second layer is used to enable mouse controls directly from the keyboard.
 ## 🪢​ WIRING
 
 *Wiring instructions will be added in the future.*
-
+---
+An additional button was soldered to PIIIIINNN to wake up the keyboard at the first boot of the pc
+<!-- BREAKPOINT -->
+![wake up button](Pics/Photos/initialize_button_1.jpg)
+<!-- BREAKPOINT -->
 ---
 ## 🧱​ MATERIALS
 
