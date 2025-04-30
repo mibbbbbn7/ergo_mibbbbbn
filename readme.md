@@ -67,8 +67,6 @@ A second layer is used to enable mouse controls directly from the keyboard.
 ## 🪢​ WIRING
 <!-- BREAKPOINT -->
 Make sure to have some sort of **isolation** where a column wire and a row wire intersect  
-
-# Wiring for the Right half
 ---
 <!-- BREAKPOINT -->
 <div align="center">
@@ -87,17 +85,6 @@ Make sure to have some sort of **isolation** where a column wire and a row wire 
    <img src="Wiring/button_for_right_side.png" width="60%"/>
 </div>
 <!-- BREAKPOINT -->
-
----
-
-# Wiring for the Left half
----
-
-<!-- BREAKPOINT -->
-<div align="center">
-   <img src="Wiring/left_wiring.png" width="60%"/>
-</div>
-
 
 ---
 ## 🧱​ MATERIALS
