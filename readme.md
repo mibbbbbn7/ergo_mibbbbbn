@@ -76,8 +76,8 @@ Make sure to have some sort of **isolation** where a column wire and a row wire 
 </div>
 <!-- BREAKPOINT -->
 <div align="center">
-   <img src="Wiring/right_wiring.png" width="45%"/>
    <img src="Wiring/left_wiring.png" width="45%"/>
+   <img src="Wiring/right_wiring.png" width="45%"/>
 </div>
 <!-- BREAKPOINT -->
 
