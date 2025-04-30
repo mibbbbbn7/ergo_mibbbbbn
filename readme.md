@@ -44,7 +44,7 @@ If **firmware modifications** were made, use the following steps:
 1. Open the QMK MYSYS terminal.
 2. Run:
    ```bash
-   qmk compile -kb mibbbbbn7_ita_mouse -km default
+   qmk compile -kb ergo_mibbbbbn -km default
 3. Flash new firmware following the steps above
 ---
 
