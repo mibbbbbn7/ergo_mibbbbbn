@@ -67,9 +67,9 @@ A second layer is used to enable mouse controls directly from the keyboard.
 <!-- BREAKPOINT -->
 Make sure to have some sort of **isolation** where a column and a row intersect  
 <!-- BREAKPOINT -->
-![wake up button](Wiring/left_wiring.png)
+![left wiring scheme](Wiring/left_wiring.png)
 <!-- BREAKPOINT -->
-![wake up button](Wiring/left_wiring_pic.png)
+![left wiring pic](Wiring/left_wiring_pic.jpg)
 <!-- BREAKPOINT -->
 *An additional button was soldered to the right side to wake up the keyboard at the first boot of the pc*
 ---
