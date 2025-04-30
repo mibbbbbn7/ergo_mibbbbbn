@@ -14,15 +14,19 @@ The chassis is designed for:
 - Hand-wired design
 
 <!-- BREAKPOINT -->
-![flat view](Pics/Photos/flat_trs_3.jpg)
+<div align="center">
+   <img src="Pics/Photos/flat_trs_3.jpg" width="100%"/>
+</div>
 <!-- BREAKPOINT -->
 
 Every 3D piece was designed using Fusion 360, and CAD files are available for further customization. The plate supports standard MX switches. Note: 3D-printed plates may require post-processing depending on your printer settings to ensure a correct fit for the switches.
 <!-- BREAKPOINT -->
-![fusion360_screenshot](Pics/Fusion360/side_view.png)
+<div align="center">
+   <img src="Pics/Fusion360/side_view.png" width="80%"/>
+</div>
 <!-- BREAKPOINT -->
----
 
+---
 ## ⚡​ FLASHING
 
 QMK was written so each half uses the same firmware build, but it is important to **connect the right half to the computer**.
@@ -67,15 +71,24 @@ A second layer is used to enable mouse controls directly from the keyboard.
 <!-- BREAKPOINT -->
 Make sure to have some sort of **isolation** where a column and a row intersect  
 <!-- BREAKPOINT -->
-![left wiring scheme](Wiring/left_wiring.png)
+<div align="center">
+   <img src="Wiring/left_wiring.png" width="60%"/>
+</div>
 <!-- BREAKPOINT -->
-![left wiring pic](Wiring/left_wiring_pic.jpg)
+<div align="center">
+   <img src="Wiring/left_wiring_pic.jpg" width="60%"/>
+</div>
 <!-- BREAKPOINT -->
+
 *An additional button was soldered to the right side to wake up the keyboard at the first boot of the pc*
 ---
+
 <!-- BREAKPOINT -->
-![wake up button](Wiring/button_for_right_side.png)
+<div align="center">
+   <img src="Wiring/button_for_right_side.png" width="60%"/>
+</div>
 <!-- BREAKPOINT -->
+
 ---
 ## 🧱​ MATERIALS
 
