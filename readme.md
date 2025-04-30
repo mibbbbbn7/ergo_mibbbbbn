@@ -83,7 +83,7 @@ An additional button was soldered to PIIIIINNN to wake up the keyboard at the fi
 ### Electronics & Hardware:
 - MX-like switches ×77
 - Raspberry Pi Pico ×2  
-- TRS interface ×2  
+- TRS interface PJ320D ×2  
 - TRS cable ×1  
 - IN4148 diodes ×77  
 - M2×8 screws (or slightly different) ×32  
