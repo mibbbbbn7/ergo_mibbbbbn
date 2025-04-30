@@ -68,19 +68,20 @@ A second layer is used to enable mouse controls directly from the keyboard.
 <!-- BREAKPOINT -->
 Make sure to have some sort of **isolation** where a column wire and a row wire intersect  
 
-# Wiring for the Riht half
+# Wiring for the Right half
 ---
-<!-- BREAKPOINT -->
-<div align="center">
-   <img src="Wiring/left_wiring.png" width="60%"/>
-</div>
 <!-- BREAKPOINT -->
 <div align="center">
    <img src="Wiring/right_wiring_pic.jpg" width="60%"/>
 </div>
 <!-- BREAKPOINT -->
+<div align="center">
+   <img src="Wiring/right_wiring.png" width="45%"/>
+   <img src="Wiring/left_wiring.png" width="45%"/>
+</div>
+<!-- BREAKPOINT -->
 
-*An additional button was soldered to the right side to wake up the keyboard at the first boot of the pc*
+*An additional button was soldered to the RIGHT side to wake up the keyboard at the first boot of the pc*
 <!-- BREAKPOINT -->
 <div align="center">
    <img src="Wiring/button_for_right_side.png" width="60%"/>
