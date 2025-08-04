@@ -20,20 +20,20 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
         KC_ESC,  KC_NO,     KC_NO,     KC_NO,     KC_NO,      KC_NO,     KC_NO,     /* | */ KC_NO,     KC_NO,     KC_NO,     KC_NO,      KC_NO,     KC_NO,     KC_NO,
         KC_NO,   KC_F1,     KC_F2,     KC_F3,     KC_F4,      KC_F5,     KC_F6,     /* | */ KC_NO,     KC_NO,     KC_NO,     KC_NO,      KC_NO,     KC_NO,     KC_NO,
-        KC_NO,   KC_NO,     KC_LCTL,   MS_UP,     KC_LSFT,    MS_WHLU,              /* | */ KC_NO,     KC_NO,     KC_NO,     KC_NO,      KC_NO,     KC_NO,     KC_NO,
-        KC_NO,   KC_NO,     MS_LEFT,   MS_DOWN,   MS_RGHT,    MS_WHLD,   KC_NO,     /* | */ KC_NO,     KC_NO,     KC_NO,     KC_NO,      KC_NO,     KC_NO,     KC_NO,
+        KC_NO,   KC_NO,     KC_LCTL,   MS_UP,     KC_LSFT,    MS_WHLU,              /* | */ KC_NO,     KC_NO,     KC_UP,     KC_NO,      KC_NO,     KC_NO,     KC_NO,
+        KC_NO,   KC_NO,     MS_LEFT,   MS_DOWN,   MS_RGHT,    MS_WHLD,   KC_NO,     /* | */ KC_NO,     KC_LEFT,   KC_DOWN,   KC_RIGHT,   KC_NO,     KC_NO,     KC_NO,
         KC_NO,   KC_TRNS,   KC_NO,     KC_NO,     KC_NO,      KC_NO,     KC_NO,     /* | */ KC_NO,     KC_NO,     KC_NO,     KC_NO,      KC_NO,     KC_UP,
-        KC_NO,                                    MS_BTN1,    MS_BTN2,   MS_BTN3,   /* | */ KC_NO,     KC_NO,                            KC_LEFT,   KC_DOWN,   KC_RIGHT
+        KC_NO,                                    MS_BTN1,    MS_BTN2,   MS_BTN3,   /* | */ KC_NO,     KC_BACKSPACE,                            KC_LEFT,   KC_DOWN,   KC_RIGHT
 
     ),
         [2] = LAYOUT_ortho_6x14(
 
         KC_ESC,    KC_NO,     KC_NO,     KC_NO,     KC_NO,      KC_NO,     KC_NO,     /* | */ KC_NO,     KC_NO,     KC_NO,     KC_NO,      KC_NO,     KC_NO,     KC_NO,
         KC_NO,     KC_F1,     KC_F2,     KC_F3,     KC_F4,      KC_F5,     KC_F6,     /* | */ KC_NO,     KC_NO,     KC_NO,     KC_NO,      KC_NO,     KC_NO,     KC_NO,
-        KC_NO,     KC_NO,     KC_NO,     KC_NO,     KC_NO,      MS_WHLU,              /* | */ KC_NO,     KC_NO,     KC_UP,     KC_NO,      KC_NO,     KC_NO,     KC_NO,
-        KC_NO,     KC_NO,     KC_NO,     KC_NO,     KC_NO,      MS_WHLD,   KC_NO,     /* | */ KC_NO,     KC_LEFT,   KC_DOWN,   KC_RIGHT,   KC_NO,     KC_NO,     KC_NO,
+        KC_NO,     KC_NO,     KC_LCTL,   MS_UP,     KC_LSFT,    MS_WHLU,              /* | */ KC_NO,     KC_NO,     KC_UP,     KC_NO,      KC_NO,     KC_NO,     KC_NO,
+        KC_NO,     KC_NO,     MS_LEFT,   MS_DOWN,   MS_RGHT,    MS_WHLD,   KC_NO,     /* | */ KC_NO,     KC_LEFT,   KC_DOWN,   KC_RIGHT,   KC_NO,     KC_NO,     KC_NO,
         KC_LSFT,   KC_NO,     KC_NO,     KC_NO,     KC_NO,      KC_NO,     KC_NO,     /* | */ KC_NO,     KC_NO,     KC_NO,     KC_NO,      KC_NO,     KC_UP,
-        KC_LCTL,                                    KC_LALT,    KC_NO,     KC_TRNS,   /* | */ KC_NO,     KC_NO,                            KC_LEFT,   KC_DOWN,   KC_RIGHT
+        KC_LCTL,                                    KC_LALT,    KC_NO,     KC_TRNS,   /* | */ KC_NO,     KC_BACKSPACE,                            KC_LEFT,   KC_DOWN,   KC_RIGHT
 
     )
 };
