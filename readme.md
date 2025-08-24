@@ -106,7 +106,3 @@ Make sure to have some sort of **isolation** where a column wire and a row wire 
 - IN4148 diodes ×77  
 - M2×8 screws (or slightly different) ×32  
 - Electric wire  
-
-## 🧢 KEYCAPS
-
-Custom fdm 3D-printed low-profile keycaps are currently in development.
